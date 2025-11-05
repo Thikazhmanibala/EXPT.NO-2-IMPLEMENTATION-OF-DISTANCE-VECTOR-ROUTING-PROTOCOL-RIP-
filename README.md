@@ -88,6 +88,14 @@ You can also check connectivity between the PCs on different networks to ensure 
 <img width="859" height="830" alt="Screenshot 2025-11-05 154226" src="https://github.com/user-attachments/assets/f349b704-2306-4137-abb7-c2a21478f3fe" />
 
 
+<img width="854" height="823" alt="image" src="https://github.com/user-attachments/assets/c2e3d8f4-353e-4fe9-9da1-d72ba44523cf" />
+
+
+<img width="859" height="582" alt="Screenshot 2025-11-05 154604" src="https://github.com/user-attachments/assets/8cac1457-8c1e-4236-a2d9-71fe2a7d2aff" />
+
+
+
+
 
 # RESULT:
 
